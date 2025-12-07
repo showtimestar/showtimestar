@@ -4,7 +4,7 @@
   <tbody>
     <tr>
       <td>
-       <h4 align="center">✎ᝰ﹏ABOUT ME ☆ <br> <br> ben | <i>he</i>/they | 19 | roleplayer at heart  <br> <br> • feel free to just walk up to me and start rping <br> <br> ⟡ im offtab sometimes so feel free to whisper instead, i'm way more likely to see it! <br> <br> • im just some guy who's autistic (diagnosed) about the hit game deltarune <br> <br> ⟡ some of my other interests include: stardew valley, ultrakill, pressure, minecraft (the game only) and marine biology <br> <br>• usually at docks or DR area! <br> <br>⟡ <i> dni if you're under 16</i></h4>
+       <h4 align="center">✎ᝰ﹏ABOUT ME ☆ <br> <br> ben | <i>he</i>/they | 19 | roleplayer at heart  <br> <br> • feel free to just walk up to me and start rping <br> <br> ⟡ im offtab sometimes so feel free to whisper instead, i'm way more likely to see it! <br> <br> • im just some guy who's autistic (diagnosed) about the hit game deltarune <br> <br> ⟡ some of my other interests include: stardew valley, ultrakill, pressure, minecraft (the game only) and marine biology <br> <br>• usually at docks or DR area! <br> <br>⟡ <i> dni if you're under 16 or treat mental disorders as a "quirky im so silly" trait </i></h4>
       </td>
       <td> <img width="330" height="500" src="https://64.media.tumblr.com/85a034290a9071b11520e127d89defd3/1c41305c8c1f2ca2-e6/s500x750/f4543faf5869c5c7ed155f157cca366196488720.gif" /> </td>
     </tr>
