@@ -6,7 +6,7 @@
       <td>
        <h4 align="center">✎ᝰ﹏ABOUT ME ☆ <br> <br> ben | <i>he</i>/they | 19 | roleplayer at heart  <br> <br> • feel free to just walk up to me and start rping <br> <br> ⟡ im offtab sometimes so feel free to whisper instead, i'm way more likely to see it! <br> <br> • im just some guy who's autistic (diagnosed) about the hit game deltarune <br> <br> ⟡ some of my other interests include: stardew valley, ultrakill, pressure, minecraft (the game only) and marine biology <br> <br>• usually at docks or DR area! <br> <br>⟡ <i> dni if you're under 16, romanticise gore + enjoy spamcoffin or treat traumatic mental disorders as a "quirky im so silly" trait. you know who you are <br> <br> I DO NOT SUPPORT ZEAL and i'm taking sebastian as an oc. if this makes you mad use the hide button it's that simple </i></h4>
       </td>
-      <td> <img width="300" height="350" src="https://64.media.tumblr.com/85a034290a9071b11520e127d89defd3/1c41305c8c1f2ca2-e6/s500x750/f4543faf5869c5c7ed155f157cca366196488720.gif" /> </td>
+      <td> <img width="300" height="300" src="https://64.media.tumblr.com/85a034290a9071b11520e127d89defd3/1c41305c8c1f2ca2-e6/s500x750/f4543faf5869c5c7ed155f157cca366196488720.gif" /> </td>
     </tr>
   </tbody>
 </table>
